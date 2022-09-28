@@ -1,3 +1,3 @@
 <?php
 
-echo "west central us!";
+echo "gamegroup!";
