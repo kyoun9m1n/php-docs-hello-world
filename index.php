@@ -1,3 +1,3 @@
 <?php
 
-echo "West Central US!";
+echo "East Asia!";
